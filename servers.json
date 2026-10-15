@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "eibit",
+            "address": "https://anisette-v3-server-rvdw.onrender.com/"
+        }
+    ]
+}
